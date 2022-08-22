@@ -1,0 +1,4 @@
+Como fazer o .env?
+Como tipar o Navigation em "./Landing.tsx"?
+Como transfomar uma biblioteca JS em TS?
+Porque o "./App.tsx" redireciona quando há mudança de estado do usuário logado se o useEffect não tem dependencia?
